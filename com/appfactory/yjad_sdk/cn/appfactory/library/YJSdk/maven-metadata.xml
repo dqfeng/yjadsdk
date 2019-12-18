@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.appfactory.library</groupId>
+  <artifactId>YJSdk</artifactId>
+  <versioning>
+    <release>2.8.1</release>
+    <versions>
+      <version>2.8.1</version>
+    </versions>
+    <lastUpdated>20191218064158</lastUpdated>
+  </versioning>
+</metadata>
